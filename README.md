@@ -81,7 +81,7 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ## Authors
 
-- [Rich](Brian Sila)
+- Brian Sila
 
 ---
 
